@@ -18,7 +18,7 @@ This is a minimal solution you can submit to the RAMP platform.
 
 To compile the C++ example solution on Linux or Mac OS
 ```
-cc -I./CPP/ CPP/solution.cpp -lstdc++ -O3 -o solution
+cc -I./CPP/ CPP/main.cpp -lstdc++ -O3 -o solution
 ```
 
 Then you can run the resulting executable with,
