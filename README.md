@@ -2,7 +2,7 @@
 
 Starting kit for the "Layout of Smart Factory Instruments" challenge
 
-In this challenge you can use designe an C++ or a Python solution.
+In this challenge you can design an C++ or a Python solution.
 
 ## Running the Python example solution
 
@@ -20,6 +20,7 @@ To compile the C++ example solution on Linux or Mac OS
 ```
 cc -I./CPP/ CPP/main.cpp -lstdc++ -O3 -o solution
 ```
+
 
 Then you can run the resulting executable with,
 ```
